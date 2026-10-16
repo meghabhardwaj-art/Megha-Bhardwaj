@@ -1,36 +1,66 @@
+# Hi, I'm Megha Bhardwaj 😊
 
-# Hi, I'm Megha Bhardwaj 👋
+### Master's Student in Electronics | RTL Design | Design Verification
 
-### Electronics Master's Student | RTL Design & Verification
+I am pursuing my **MSc Tech in Electronics at NIT Warangal** and building my skills in **digital design, RTL development, and hardware verification**.
 
-I am interested in RTL Design, Design Verification, FPGA-based
-digital systems.
+My interests include designing reliable RTL systems, verifying digital designs, and working with industry-relevant hardware protocols.
 
-### Technical Skills
+---
 
+## 🛠️ Technical Skills
+
+**HDL & Verification**
 - Verilog HDL
 - SystemVerilog
-- RTL Design
-- STA
-- Functional Verification
 - SVA
-- FPGA
+- Functional Verification
+- Constrained Random Verification
+
+**RTL & Digital Design**
+- RTL Design
+- FSM-based Design
+- FIFO
+- Sequential & Combinational Logic
+- Static Timing Analysis (STA)
+
+**Protocols**
 - AXI
 - APB
-- FIFO
 - UART
 - SPI
 - PCIe
-  
 
-### Projects
+**Hardware & Tools**
+- FPGA
+- Xilinx Vivado
 
-- Synchronous FIFO Design and Verification
-- AXI4-Stream and AXI4-Lite Interface
-- APB-RAM Design and Verification
-- UART and SPI Protocol Design and Verification
+---
 
-### Education
+## 📌 Featured Projects
 
-MSc Tech in Electronics  
-NIT Warangal
+| Project | Focus |
+|---|---|
+| **Synchronous FIFO** | RTL Design & Verification |
+| **AXI4 Interface** | AXI4-Stream & AXI4-Lite RTL Design |
+| **APB-RAM** | RTL Design & Verification |
+| **UART** | RTL Design & Verification |
+| **SPI** | RTL Design & Verification |
+
+---
+
+## 🎯 Areas of Interest
+
+`RTL Design` • `Design Verification` • `SystemVerilog`  
+`Digital VLSI` • `FPGA Design` • `Hardware Protocols` • `STA`
+
+---
+
+## 🎓 Education
+
+**MSc Tech in Electronics**  
+**National Institute of Technology, Warangal**
+
+---
+
+### 😊 Always learning, designing, and improving my understanding of digital hardware.

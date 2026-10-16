@@ -1,4 +1,4 @@
-# Hi, I'm Megha Bhardwaj 😊
+# Hi, I'm Megha Bhardwaj 
 
 ### Master's Student in Electronics | RTL Design | Design Verification
 
@@ -63,4 +63,4 @@ My interests include designing reliable RTL systems, verifying digital designs, 
 
 ---
 
-### 😊 Always learning, designing, and improving my understanding of digital hardware.
+###  Always learning, designing, and improving my understanding of digital hardware.
